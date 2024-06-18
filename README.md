@@ -36,7 +36,6 @@ In this project, you will learn how to preprocess and merge datasets to calculat
 ## Files
 
 - `COVID19_dataset.csv`: The COVID-19 dataset used for the analysis.
-- `Life_factors_dataset.csv`: The life factors dataset used for the analysis.
 - `COVID19_and_Life_Factors_Analysis.ipynb`: Jupyter Notebook containing the analysis process.
 - `README.md`: This file providing an overview of the project.
 
